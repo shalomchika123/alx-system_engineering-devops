@@ -1,2 +1,1 @@
-current user to betty
-
+Readme details later
